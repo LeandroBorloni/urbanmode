@@ -1,0 +1,41 @@
+{
+  "roupas": [
+    {
+      "id": 1,
+      "image": "./img/Camiseta1.svg",
+      "titulo": "Camiseta 701",
+      "preco": "25.99"
+    },
+    {
+      "id": 2,
+      "image": "/img/Camiseta2.svg",
+      "titulo": "Calça Jeans Slim Fit",
+      "preco": "49.99"
+    },
+    {
+      "id": 3,
+      "image": "",
+      "titulo": "Jaqueta de Couro",
+      "preco": "89.99"
+    },
+    {
+      "id": 4,
+      "image": "",
+      "titulo": "Vestido de Verão",
+      "preco": "39.99"
+    },
+    {
+      "id": 5,
+      "image": "",
+      "titulo": "Tênis Esportivo",
+      "preco": "59.99"
+    },
+    {
+      "id": 6,
+      "image": "./img/Camiseta1.svg",
+      "titulo": "Camiseta 701",
+      "preco": "25.99"
+    }
+  ]
+}
+  
